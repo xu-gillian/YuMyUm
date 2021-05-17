@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/YuMyUm/static/css/main.c26d407a.chunk.css",
+    "main.js": "/YuMyUm/static/js/main.0faea061.chunk.js",
+    "main.js.map": "/YuMyUm/static/js/main.0faea061.chunk.js.map",
+    "runtime-main.js": "/YuMyUm/static/js/runtime-main.e027a645.js",
+    "runtime-main.js.map": "/YuMyUm/static/js/runtime-main.e027a645.js.map",
+    "static/js/2.1f2a1210.chunk.js": "/YuMyUm/static/js/2.1f2a1210.chunk.js",
+    "static/js/2.1f2a1210.chunk.js.map": "/YuMyUm/static/js/2.1f2a1210.chunk.js.map",
+    "index.html": "/YuMyUm/index.html",
+    "static/css/main.c26d407a.chunk.css.map": "/YuMyUm/static/css/main.c26d407a.chunk.css.map",
+    "static/js/2.1f2a1210.chunk.js.LICENSE.txt": "/YuMyUm/static/js/2.1f2a1210.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/YuMyUm/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e027a645.js",
+    "static/js/2.1f2a1210.chunk.js",
+    "static/css/main.c26d407a.chunk.css",
+    "static/js/main.0faea061.chunk.js"
+  ]
+}
